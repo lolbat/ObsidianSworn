@@ -22,7 +22,7 @@ The `_Assets.md` file is a place to store Assets that you pick for your characte
 ### Progress
 The `_Progress.md` file is used to track the progress of any tasks or combats that your character is involved in. The format is the same as the Vow tracker and there is also a `Progress Task Row` template you can use to add new rows to the table.
 
-Next up is to determine your stats and  [[Recording Stats}|then record them]]. 
+Next up is to determine your stats and  [[Recording Details|then record them]]. 
 
 
 
